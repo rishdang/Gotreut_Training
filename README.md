@@ -1,3 +1,3 @@
-# Gotreut Training
+# Gotreut Training PCAP
 
-Password is "GOTREUT" without caps. Open in wireshark to begin post extraction.
+Password is "GOTREUT" without caps. To begin, open in wireshark post extraction.
